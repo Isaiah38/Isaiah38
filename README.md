@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Isaiah
-- 👀 I’m interested in Frontend software development
-- 🌱 I’m currently learning HTML, CSS and Javascript
-- 💞️ I’m looking to collaborate on building a responsive website
+- 👋 Hi, I’m Isaiah Ogwuche
+- 👀 I’m interested in Fullstack Software Engineering
+- 🌱 I’m currently under going training to becoming a great Fullstack Software Engineer
+- 💞️ I’m looking to collaborate on building an impactful project
 - 📫 How to reach me (brightlight882@gmail.com)
 
 <!---
