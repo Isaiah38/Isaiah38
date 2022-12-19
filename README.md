@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Isaiah Ogwuche
-- 👀 I’m a Fullstack Software Engineering
+- 👀 I’m a Fullstack Software Engineer
 - 🌱 I’m currently under going training to becoming a great Fullstack Software Engineer
 - 💞️ I’m looking to collaborate on building an impactful project
 - 📫 How to reach me (brightlight882@gmail.com)
