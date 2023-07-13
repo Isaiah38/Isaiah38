@@ -1,5 +1,5 @@
 # 💫 Hey there!:
- I'm Ogwuche Isaiah Okoh, an experienced backend developer who knows how to build applications that scale. My specialty lies in Node.js with Express as the framework and MongoDB as the go-to database. With a solid 1 year of experience in a startup environment, I've proven my ability to deliver top-notch solutions.<br><br>I have a knack for turning business requirements into technical magic. I'm always on the lookout for the latest technologies and keep learning to stay ahead of the curve. <br><br>let's connect and discuss how I can contribute to your next big project!
+ I'm Ogwuche Isaiah Okoh, an experienced software developer who knows how to build applications that scale. My specialty lies in Node.js with Express as the framework and MongoDB as the go-to database. With a solid 1 year of experience in a startup environment, I've proven my ability to deliver top-notch solutions.<br><br>I have a knack for turning business requirements into technical magic. I'm always on the lookout for the latest technologies and keep learning to stay ahead of the curve. <br><br>let's connect and discuss how I can contribute to your next big project!
 
 
 ## 🌐 Socials:
