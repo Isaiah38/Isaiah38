@@ -10,7 +10,7 @@ Over the course of my career, I have gained valuable experience working in a sta
 ### Skills
 
 - **Languages:** JavaScript (ES6+)
-- **Backend:** Node.js, Express
+- **Backend:** Node.js, Express, PHP, Laravel
 - **Databases:** MongoDB, MySQL
 - **Web Technologies:** HTML, CSS, RESTful APIs
 - **Version Control:** Git, GitHub
