@@ -1,7 +1,7 @@
 # 💫 Hello 👋!!!
 ---
 
-Welcome to my GitHub profile! I'm Ogwuche Isaiah Okoh, a dedicated and experienced software developer with a passion for building scalable applications. With a specialization in Node.js, utilizing the Express framework, and leveraging MongoDB as the go-to database, I have honed my skills in delivering top-notch solutions.
+Welcome to my GitHub profile! I'm Ogwuche Isaiah Okoh, a dedicated and experienced software developer with a passion for building scalable applications. With a specialization in Node.js, utilizing the Express framework, PHP/Laravel, and leveraging MongoDB as the go-to database, I have honed my skills in delivering top-notch solutions.
 
 ### Professional Background
 
