@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm Taag, a dedicated and experienced software dev
 
 ### Professional Background
 
-Over the course of my career, I have gained valuable experience working in a startup environment for a solid year. This experience has allowed me to develop a keen understanding of the challenges that arise in fast-paced and dynamic projects, and the ability to thrive under such circumstances. I pride myself on my ability to turn business requirements into technical solutions, consistently delivering high-quality software solutions.
+Over the course of my career, I have gained valuable experience working in startups. This experience has allowed me to develop a keen understanding of the challenges that arise in fast-paced and dynamic projects, and the ability to thrive under such circumstances. I pride myself on my ability to turn business requirements into technical solutions, consistently delivering high-quality software solutions.
 
 ### Skills
 
