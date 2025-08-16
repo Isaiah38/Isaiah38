@@ -1,7 +1,7 @@
 # 💫 Hello 👋!!!
 ---
 
-Welcome to my GitHub profile! I'm Taag, a dedicated and experienced software developer with a passion for building scalable applications. With a specialization in Node.js, utilizing the Express framework, PHP/Laravel, Rust and leveraging MongoDB and MYSQL as the go-to database, I have honed my skills in delivering top-notch solutions.
+Welcome to my GitHub profile! I’m Isaiah (aka Shepard), a dedicated and experienced software developer with a passion for system optimization, API design, scaling apps for high traffic, Web3, etc. With a specialization in Node.js, utilizing the Express framework, PHP/Laravel, Rust and leveraging MongoDB and MYSQL as the go-to database, I have honed my skills in delivering top-notch solutions.
 
 ### Professional Background
 
